@@ -1,0 +1,13 @@
+.headerWrapper{
+    background-color: black;
+    color: white;
+}
+.headerBtn{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.headerLogo{
+    text-align: center;
+    font-size: 24px;
+}
